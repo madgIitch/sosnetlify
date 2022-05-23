@@ -16,7 +16,7 @@
         "dark",
     ];
 
-    const BASE_API_URL = "/api/v1";
+    const BASE_API_URL = "https://sos2122-31.herokuapp.com/api/v1";
     export let params = {};
     let reg = {};
     let upcountry = "XXXX";
