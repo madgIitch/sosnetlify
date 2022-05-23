@@ -8,77 +8,77 @@
         - [José Ortiz Roldán](<a href="https://github.com/madgIitch">https://github.com/madgIitch</a>) : proportion-stats
         <h3>Project description:</h3> Nuestras fuentes de información esta orientadas a analizar la relación que existe entre los matriculados el los diferentes niveles escolares, la tasa de alfabetización y proporción sin educación, empleo ni capacitación en jóvenes
         <h3>Repository:</h3><a href="https://github.com/gti-sos/SOS2122-31">[gti-sos/SOS2122-31](https://github.com/gti-sos/SOS2122-31)</a>
-        <h3>URL:</h3><a href="https://sparkly-cajeta-45f37b.netlify.app//">[http://sos2122-31.herokuapp.com](http://sos2122-31.herokuapp.com)</a>
+        <h3>URL:</h3><a href="https://sos2122-31.herokuapp.com//">[http://sos2122-31.herokuapp.com](http://sos2122-31.herokuapp.com)</a>
         <p style="font-weight: bold;">            -  APIs:
         </p>
         
         <ul>
-            <li><a href="https://sparkly-cajeta-45f37b.netlify.app//api/v2/registration-stats/docs">[https://sparkly-cajeta-45f37b.netlify.app//api/v2/registration-stats/docs]</a>(developed by [Ismael Mesa Zyout] <a href="https://github.com/IsmaelMesaZyout">
+            <li><a href="https://sos2122-31.herokuapp.com//api/v2/registration-stats/docs">[https://sos2122-31.herokuapp.com//api/v2/registration-stats/docs]</a>(developed by [Ismael Mesa Zyout] <a href="https://github.com/IsmaelMesaZyout">
             </a>)</li>
-            <li><a href="https://sparkly-cajeta-45f37b.netlify.app//api/v1/registration-stats/docs">[https://sparkly-cajeta-45f37b.netlify.app//api/v1/registration-stats/docs]</a>(developed by [Ismael Mesa Zyout] <a href="https://github.com/IsmaelMesaZyout">
+            <li><a href="https://sos2122-31.herokuapp.com//api/v1/registration-stats/docs">[https://sos2122-31.herokuapp.com//api/v1/registration-stats/docs]</a>(developed by [Ismael Mesa Zyout] <a href="https://github.com/IsmaelMesaZyout">
             </a>)</li>
-            <li><a href="https://sparkly-cajeta-45f37b.netlify.app//api/v1/alphabetization-stats/docs">[https://sparkly-cajeta-45f37b.netlify.app//api/v1/alphabetization-stats/docs]</a>V1(developed by [Daniel Vega Vera] <a href="https://github.com/daniveg20">
+            <li><a href="https://sos2122-31.herokuapp.com//api/v1/alphabetization-stats/docs">[https://sos2122-31.herokuapp.com//api/v1/alphabetization-stats/docs]</a>V1(developed by [Daniel Vega Vera] <a href="https://github.com/daniveg20">
             </a>)</li>
-            <li><a href="https://sparkly-cajeta-45f37b.netlify.app//api/v2/alphabetization-stats/docs">[https://sparkly-cajeta-45f37b.netlify.app//api/v2/alphabetization-stats/docs]</a>V2(developed by [Daniel Vega Vera] <a href="https://github.com/daniveg20">
+            <li><a href="https://sos2122-31.herokuapp.com//api/v2/alphabetization-stats/docs">[https://sos2122-31.herokuapp.com//api/v2/alphabetization-stats/docs]</a>V2(developed by [Daniel Vega Vera] <a href="https://github.com/daniveg20">
             </a>)</li>
-            <li><a href="https://sparkly-cajeta-45f37b.netlify.app//api/v1/proportion-stats/docs">[https://sparkly-cajeta-45f37b.netlify.app//api/v1/proportion-stats/docs]</a>(developed by [José Ortiz Roldán] <a href="https://github.com/madgIitch">
+            <li><a href="https://sos2122-31.herokuapp.com//api/v1/proportion-stats/docs">[https://sos2122-31.herokuapp.com//api/v1/proportion-stats/docs]</a>(developed by [José Ortiz Roldán] <a href="https://github.com/madgIitch">
             </a>)</li>
-            <li><a href="https://sparkly-cajeta-45f37b.netlify.app//api/v2/proportion-stats/docs">[https://sparkly-cajeta-45f37b.netlify.app//api/v2/proportion-stats/docs]</a>(developed by [José Ortiz Roldán] <a href="https://github.com/madgIitch">
+            <li><a href="https://sos2122-31.herokuapp.com//api/v2/proportion-stats/docs">[https://sos2122-31.herokuapp.com//api/v2/proportion-stats/docs]</a>(developed by [José Ortiz Roldán] <a href="https://github.com/madgIitch">
             </a>)</li>
         </ul>
         <h6>
             Ismael Mesa Zyout:
-            <a href="https://sparkly-cajeta-45f37b.netlify.app//api/v1/registration-stats">Enlace BackEnd V1</a>
-            <a href="https://sparkly-cajeta-45f37b.netlify.app//api/v2/registration-stats">Enlace BackEnd V2</a>
-            <a href="https://sparkly-cajeta-45f37b.netlify.app//#/registration-stats">Enlace FrontEnd</a>
+            <a href="https://sos2122-31.herokuapp.com//api/v1/registration-stats">Enlace BackEnd V1</a>
+            <a href="https://sos2122-31.herokuapp.com//api/v2/registration-stats">Enlace BackEnd V2</a>
+            <a href="https://sos2122-31.herokuapp.com//#/registration-stats">Enlace FrontEnd</a>
             <li><strong>Gráficas Ismael Mesa</strong>:<ul>
                 
                 <h8>Individuales:</h8>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphRegistration">/#/graphRegistration</a> (developed by <a href="https://github.com/IsmaelMesaZyout">Ismael Mesa Zyout</a>)</li>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphCanvaJS">/#/graphCanvaJS</a> (developed by <a href="https://github.com/IsmaelMesaZyout">Ismael Mesa Zyout</a>)</li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphRegistration">/#/graphRegistration</a> (developed by <a href="https://github.com/IsmaelMesaZyout">Ismael Mesa Zyout</a>)</li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphCanvaJS">/#/graphCanvaJS</a> (developed by <a href="https://github.com/IsmaelMesaZyout">Ismael Mesa Zyout</a>)</li>
                 <h8>Integraciones SOS:</h8>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphPublicStats">/#/graphPublicStats</a> (developed by <a href="https://github.com/roque-fernandez">Roque Fernandez Iglesias</a>)</li>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphCo2Stats">/#/graphCo2Stats</a> (developed by <a href="https://github.com/jesvencam">Jesus Vena Campos</a>)</li>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphPopulation">/#/graphPopulation</a> (developed by <a href="https://github.com/AlejandroMolinosEligio">Alejandro Molinos Eligio</a>)</li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphPublicStats">/#/graphPublicStats</a> (developed by <a href="https://github.com/roque-fernandez">Roque Fernandez Iglesias</a>)</li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphCo2Stats">/#/graphCo2Stats</a> (developed by <a href="https://github.com/jesvencam">Jesus Vena Campos</a>)</li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphPopulation">/#/graphPopulation</a> (developed by <a href="https://github.com/AlejandroMolinosEligio">Alejandro Molinos Eligio</a>)</li>
                 <h8>Integraciones Externas:</h8>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphExternalApi">/#/graphExternalApi</a> (developed by <a href="https://github.com/IsmaelMesaZyout">Ismael Mesa Zyout</a>)</li>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphExternalApi2">/#/graphExternalApi2</a> (developed by <a href="https://github.com/IsmaelMesaZyout">Ismael Mesa Zyout</a>)</li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphExternalApi">/#/graphExternalApi</a> (developed by <a href="https://github.com/IsmaelMesaZyout">Ismael Mesa Zyout</a>)</li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphExternalApi2">/#/graphExternalApi2</a> (developed by <a href="https://github.com/IsmaelMesaZyout">Ismael Mesa Zyout</a>)</li>
                 </ul>
             </li>
         </h6>
         <h6>
             Daniel Vega Vera:
-            <a href="https://sparkly-cajeta-45f37b.netlify.app//api/v1/alphabetization-stats">Enlace BackEnd V1</a>
-            <a href="https://sparkly-cajeta-45f37b.netlify.app//api/v2/alphabetization-stats">Enlace BackEnd V2</a>
-            <a href="https://sparkly-cajeta-45f37b.netlify.app//#/alphabetization-stats">Enlace FrontEnd</a>
+            <a href="https://sos2122-31.herokuapp.com//api/v1/alphabetization-stats">Enlace BackEnd V1</a>
+            <a href="https://sos2122-31.herokuapp.com//api/v2/alphabetization-stats">Enlace BackEnd V2</a>
+            <a href="https://sos2122-31.herokuapp.com//#/alphabetization-stats">Enlace FrontEnd</a>
             <li><strong>Gráficas Daniel Vega</strong>:
                 <ul>
                 <h8>Individuales:</h8>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphAlphabetization/chad">/#/graphAlphabetization/chad</a> (developed by <a href="https://github.com/daniveg20">Daniel Vega Vera</a>)</li>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphJSCharting/chad">/#/graphJSCharting/chad</a> (developed by <a href="https://github.com/daniveg20">Daniel Vega Vera</a>)</li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphAlphabetization/chad">/#/graphAlphabetization/chad</a> (developed by <a href="https://github.com/daniveg20">Daniel Vega Vera</a>)</li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphJSCharting/chad">/#/graphJSCharting/chad</a> (developed by <a href="https://github.com/daniveg20">Daniel Vega Vera</a>)</li>
                 <h8>Integraciones SOS:</h8>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphAPISOS1_DVV">/#/graphAPISOS1_DVV</a> (developed by <a href="https://github.com/gabriellb99">Gabriel López Bellido</a>)</li>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphAPISOS2_DVV">/#/graphAPISOS2_DVV</a> (developed by <a href="https://github.com/Rgm13">Raúl Gómez Morales</a>)</li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphAPISOS1_DVV">/#/graphAPISOS1_DVV</a> (developed by <a href="https://github.com/gabriellb99">Gabriel López Bellido</a>)</li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphAPISOS2_DVV">/#/graphAPISOS2_DVV</a> (developed by <a href="https://github.com/Rgm13">Raúl Gómez Morales</a>)</li>
                 <h8>Integraciones Externas:</h8>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphAPIEXT1_DVV">/#/graphAPIEXT1_DVV</a> (developed by <a href="https://github.com/daniveg20">Daniel Vega Vera</a>)</li>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphAPIEXT2_DVV">/#/graphAPIEXT2_DVV</a> (developed by <a href="https://github.com/daniveg20">Daniel Vega Vera</a>)</li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphAPIEXT1_DVV">/#/graphAPIEXT1_DVV</a> (developed by <a href="https://github.com/daniveg20">Daniel Vega Vera</a>)</li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphAPIEXT2_DVV">/#/graphAPIEXT2_DVV</a> (developed by <a href="https://github.com/daniveg20">Daniel Vega Vera</a>)</li>
                 </ul>
             </li>
         </h6>
         <h6>
             José Ortiz Roldán:
-            <a href="https://sparkly-cajeta-45f37b.netlify.app//api/v1/proportion-stats">Enlace BackEnd v1</a>
-            <a href="https://sparkly-cajeta-45f37b.netlify.app//api/v2/proportion-stats">Enlace BackEnd v2</a>
-            <a href="https://sparkly-cajeta-45f37b.netlify.app//#/proportion-stats">Enlace FrontEnd</a>
+            <a href="https://sos2122-31.herokuapp.com//api/v1/proportion-stats">Enlace BackEnd v1</a>
+            <a href="https://sos2122-31.herokuapp.com//api/v2/proportion-stats">Enlace BackEnd v2</a>
+            <a href="https://sos2122-31.herokuapp.com//#/proportion-stats">Enlace FrontEnd</a>
             <li><strong>Gráficas José Ortiz Roldán</strong>:
             <ul>
                 <h8>Individuales:</h8>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphProportion">/#/graphProportion</a> (developed by <a href="https_//github.com/madgIitch">Jose Ortiz Roldán</a>)</li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphProportion">/#/graphProportion</a> (developed by <a href="https_//github.com/madgIitch">Jose Ortiz Roldán</a>)</li>
 
                 <h8>Integraciones SOS:</h8>
                 <h8>Integraciones Esternas:</h8>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphExternalAPI_JOR">/#//graphExternalAPI_JOR</a>(developed by <a href="https_//github.com/madgIitch">Jose Ortiz Roldán</a>)</li>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphExternalAPI2_JOR">/#/graphExternalAPI2_JOR</a>(developed by <a href="https_//github.com/madgIitch">Jose Ortiz Roldán</a>)</li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphExternalAPI_JOR">/#//graphExternalAPI_JOR</a>(developed by <a href="https_//github.com/madgIitch">Jose Ortiz Roldán</a>)</li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphExternalAPI2_JOR">/#/graphExternalAPI2_JOR</a>(developed by <a href="https_//github.com/madgIitch">Jose Ortiz Roldán</a>)</li>
             </ul>
             </li>
 
@@ -87,20 +87,20 @@
         <br>
         <h6> 
             <li><strong>Gráficas Generales</strong>:<ul>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/graphGeneral">/#/graphGeneral</a></li>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/analytics">/#/analytics</a></li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/graphGeneral">/#/graphGeneral</a></li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/analytics">/#/analytics</a></li>
                 </ul>
         </h6>
         <br> 
         <br>
         <h6> 
             <li><strong>Todas las Integraciones</strong>:<ul>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/integrations">/#/integrations</a></li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/integrations">/#/integrations</a></li>
                 </ul>
         </h6>
                 <h6> 
             <li><strong>Todos los videos</strong>:<ul>
-                <li><a href="https://sparkly-cajeta-45f37b.netlify.app//#/about">/#/about</a></li>
+                <li><a href="https://sos2122-31.herokuapp.com//#/about">/#/about</a></li>
                 </ul>
         </h6>
         <h6> 
