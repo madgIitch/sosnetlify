@@ -10,7 +10,7 @@
 	let to = null;
 	let offset = 0;
 	let limit = 10;
-	const BASE_API_URL = "/api/v1";
+	const BASE_API_URL = "https://sos2122-31.herokuapp.com/api/v1";
 
 	let paginasMax = 0;
 	let numEntries;
@@ -32,7 +32,7 @@
 
 	async function getReg() {
 		console.log("Fetching proportions....");
-		let c = `/api/v1/proportion-stats?limit=${limit}&&offset=${
+		let c = `https://sos2122-31.herokuapp.com/api/v1/proportion-stats?limit=${limit}&&offset=${
 			offset * 10
 		}&&`;
 		if (from != null) {
@@ -96,7 +96,7 @@
 
 	async function BorrarRegis(countryDelete, yearDelete) {
 		const res = await fetch(
-			"/api/v1/proportion-stats/" + countryDelete + "/" + yearDelete,
+			"https://sos2122-31.herokuapp.com/api/v1/proportion-stats/" + countryDelete + "/" + yearDelete,
 			{
 				method: "DELETE",
 			}
@@ -137,7 +137,7 @@
 	async function CargarProportions() {
 		console.log("Loading proportions....");
 		const res = await fetch(
-			"/api/v1/proportion-stats/loadInitialData",
+			"https://sos2122-31.herokuapp.com/api/v1/proportion-stats/loadInitialData",
 			{
 				method: "GET",
 			}
